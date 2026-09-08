@@ -1,6 +1,6 @@
-// HashRouter: GitHub Pages static hosting can't rewrite deep-link URLs,
-// hash routing keeps /#/hof etc. working on refresh everywhere.
-import { HashRouter, Routes, Route } from 'react-router-dom';
+// BrowserRouter: Cloudflare Pages serves index.html for unknown routes
+// (SPA fallback), so clean deep links like /hof work on refresh.
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './context/LanguageContext';
 import MainLayout from './components/layout/MainLayout';
 
@@ -23,7 +23,7 @@ import './styles/globals.css';
 function App() {
   return (
     <LanguageProvider>
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<MainLayout />}>
             <Route index element={<Home />} />
@@ -40,7 +40,7 @@ function App() {
             <Route path="about" element={<About />} />
           </Route>
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </LanguageProvider>
   );
 }
