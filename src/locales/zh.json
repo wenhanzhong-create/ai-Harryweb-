@@ -1,0 +1,204 @@
+{
+  "nav": {
+    "home": "首页",
+    "dashboard": "仪表板",
+    "editor": "编辑器",
+    "library": "内容库",
+    "ai": "AI助手",
+    "hof": "名人堂",
+    "market": "交易市场",
+    "vault": "我的收藏",
+    "profile": "个人资料",
+    "settings": "设置",
+    "about": "关于"
+  },
+  "home": {
+    "title": "AI Harry - 内容创作平台",
+    "subtitle": "用AI创造、协作、创新",
+    "description": "一个由人工智能驱动的强大内容创作平台。更智能地写作，更快地创作，触达全球受众。",
+    "cta": "开始创作",
+    "features": {
+      "ai": {
+        "title": "AI驱动写作",
+        "description": "通过我们先进的AI助手获得智能建议和自动完成您的想法。"
+      },
+      "collaborate": {
+        "title": "实时协作",
+        "description": "通过实时编辑和评论功能，与您的团队无缝协作。"
+      },
+      "publish": {
+        "title": "一键发布",
+        "description": "单击即可将您的内容发布到多个平台。"
+      }
+    }
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "welcome": "欢迎回来！",
+    "stats": {
+      "articles": "文章",
+      "drafts": "草稿",
+      "published": "已发布",
+      "views": "总浏览量"
+    },
+    "recent": "最近活动",
+    "quickActions": "快速操作"
+  },
+  "editor": {
+    "title": "编辑器",
+    "newDocument": "新建文档",
+    "save": "保存",
+    "publish": "发布",
+    "aiAssist": "AI辅助",
+    "title": "标题",
+    "content": "开始书写您的故事...",
+    "insert": "插入",
+    "format": "格式"
+  },
+  "library": {
+    "title": "内容库",
+    "all": "全部",
+    "drafts": "草稿",
+    "published": "已发布",
+    "archived": "已归档",
+    "search": "搜索文档...",
+    "noResults": "未找到文档"
+  },
+  "ai": {
+    "title": "AI助手",
+    "subtitle": "让AI帮助您创作更好的内容",
+    "features": {
+      "generate": "生成内容",
+      "improve": "改进写作",
+      "translate": "翻译",
+      "summarize": "总结"
+    },
+    "prompt": "向AI提问任何问题...",
+    "send": "发送"
+  },
+  "hof": {
+    "title": "名人堂",
+    "subtitle": "记录时代传奇与超新星的荣耀时刻。",
+    "players": "位球星",
+    "icon": "冰川偶像",
+    "filters": {
+      "all": "全部",
+      "legends": "时代传奇",
+      "stars": "超级巨星",
+      "rising": "新生代"
+    }
+  },
+  "market": {
+    "title": "交易市场",
+    "subtitle": "探索稀有藏品与传奇装备。",
+    "filters": {
+      "all": "全部",
+      "jerseys": "球衣",
+      "cards": "球星卡",
+      "shoes": "球鞋",
+      "accessories": "配件"
+    },
+    "verified": "已验证",
+    "tag": {
+      "legendary": "传奇球衣",
+      "holo": "全息卡",
+      "footwear": "球鞋"
+    },
+    "usdc": "USDC",
+    "usd": "USD",
+    "viewDetails": "查看详情"
+  },
+  "product": {
+    "badge": "冰川精英",
+    "collection": "冰封之光系列",
+    "view360": "360° 查看",
+    "selectSize": "选择尺码",
+    "sizeGuide": "尺码指南",
+    "addToCart": "加入购物车",
+    "buyNow": "立即购买",
+    "seller": "认证卖家",
+    "notFound": "未找到该商品",
+    "backToMarket": "返回市场",
+    "specs": {
+      "rating": "抓地评级",
+      "ratingValue": "9.8/10",
+      "protection": "脚踝保护",
+      "protectionValue": "高",
+      "weight": "重量",
+      "weightValue": "340g",
+      "traction": "纹路设计",
+      "tractionValue": "冰封之光全向抓地"
+    }
+  },
+  "vault": {
+    "title": "我的收藏",
+    "stats": "42 件藏品",
+    "eliteCount": "3 件精英稀有度",
+    "filters": {
+      "all": "全部",
+      "gear": "装备",
+      "playbooks": "战术手册",
+      "playerCards": "球员卡"
+    },
+    "sortRarity": "排序：稀有度",
+    "loadMore": "加载更多藏品",
+    "acquired": "获得日期",
+    "condition": "成色",
+    "maxCondition": "满成色",
+    "mastery": "熟练度",
+    "offensivePlay": "进攻战术",
+    "openInLab": "在实验室打开",
+    "rarity": {
+      "elite": "精英",
+      "pro": "专业",
+      "rookie": "新秀"
+    }
+  },
+  "profile": {
+    "title": "个人资料",
+    "edit": "编辑资料",
+    "name": "姓名",
+    "email": "邮箱",
+    "bio": "简介",
+    "save": "保存更改"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "theme": "主题",
+    "dark": "深色模式",
+    "notifications": "通知",
+    "privacy": "隐私",
+    "account": "账户"
+  },
+  "about": {
+    "title": "关于 AI Harry",
+    "description": "AI Harry 是下一代内容创作平台，利用人工智能帮助作家、创作者和团队更高效地制作高质量内容。",
+    "mission": "我们的使命",
+    "missionText": "让内容创作民主化，赋予每个人与世界分享故事的能力。",
+    "features": "功能特色",
+    "team": "团队"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出现错误",
+    "retry": "重试",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "edit": "编辑",
+    "share": "分享",
+    "copy": "复制",
+    "copied": "已复制！",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "viewAll": "查看全部",
+    "learnMore": "了解更多",
+    "getStarted": "开始使用",
+    "signIn": "登录",
+    "signUp": "注册",
+    "signOut": "退出",
+    "welcome": "欢迎"
+  }
+}

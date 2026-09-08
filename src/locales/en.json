@@ -1,0 +1,204 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "editor": "Editor",
+    "library": "Library",
+    "ai": "AI Assistant",
+    "hof": "Hall of Fame",
+    "market": "Market",
+    "vault": "My Vault",
+    "profile": "Profile",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "home": {
+    "title": "AI Harry - Content Creation Platform",
+    "subtitle": "Create, Collaborate, Innovate with AI",
+    "description": "A powerful content creation platform powered by artificial intelligence. Write smarter, create faster, and reach audiences worldwide.",
+    "cta": "Start Creating",
+    "features": {
+      "ai": {
+        "title": "AI-Powered Writing",
+        "description": "Get intelligent suggestions and auto-complete your thoughts with our advanced AI assistant."
+      },
+      "collaborate": {
+        "title": "Real-time Collaboration",
+        "description": "Work together with your team seamlessly with live editing and commenting."
+      },
+      "publish": {
+        "title": "One-Click Publishing",
+        "description": "Publish your content to multiple platforms with a single click."
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back!",
+    "stats": {
+      "articles": "Articles",
+      "drafts": "Drafts",
+      "published": "Published",
+      "views": "Total Views"
+    },
+    "recent": "Recent Activity",
+    "quickActions": "Quick Actions"
+  },
+  "editor": {
+    "title": "Editor",
+    "newDocument": "New Document",
+    "save": "Save",
+    "publish": "Publish",
+    "aiAssist": "AI Assist",
+    "title": "Title",
+    "content": "Start writing your story...",
+    "insert": "Insert",
+    "format": "Format"
+  },
+  "library": {
+    "title": "Content Library",
+    "all": "All",
+    "drafts": "Drafts",
+    "published": "Published",
+    "archived": "Archived",
+    "search": "Search documents...",
+    "noResults": "No documents found"
+  },
+  "ai": {
+    "title": "AI Assistant",
+    "subtitle": "Let AI help you create better content",
+    "features": {
+      "generate": "Generate Content",
+      "improve": "Improve Writing",
+      "translate": "Translate",
+      "summarize": "Summarize"
+    },
+    "prompt": "Ask AI anything...",
+    "send": "Send"
+  },
+  "hof": {
+    "title": "Hall of Fame",
+    "subtitle": "Recording the glory of era legends and rising superstars.",
+    "players": "Players",
+    "icon": "GLACIER Icon",
+    "filters": {
+      "all": "All",
+      "legends": "Legends",
+      "stars": "Superstars",
+      "rising": "New Era"
+    }
+  },
+  "market": {
+    "title": "Marketplace",
+    "subtitle": "Discover rare assets and legendary gear.",
+    "filters": {
+      "all": "All Items",
+      "jerseys": "Jerseys",
+      "cards": "Cards",
+      "shoes": "Shoes",
+      "accessories": "Accessories"
+    },
+    "verified": "Verified",
+    "tag": {
+      "legendary": "Legendary Jersey",
+      "holo": "Holo Card",
+      "footwear": "Footwear"
+    },
+    "usdc": "USDC",
+    "usd": "USD",
+    "viewDetails": "View Details"
+  },
+  "product": {
+    "badge": "Glacier Elite",
+    "collection": "Frozen Light Collection",
+    "view360": "360° View",
+    "selectSize": "Select Size",
+    "sizeGuide": "Size Guide",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "seller": "Verified Seller",
+    "notFound": "Product not found",
+    "backToMarket": "Back to Market",
+    "specs": {
+      "rating": "Traction Rating",
+      "ratingValue": "9.8/10",
+      "protection": "Ankle Protection",
+      "protectionValue": "High",
+      "weight": "Weight",
+      "weightValue": "340g",
+      "traction": "Traction Pattern",
+      "tractionValue": "Frozen Light Multidirectional"
+    }
+  },
+  "vault": {
+    "title": "My Collection",
+    "stats": "42 Items",
+    "eliteCount": "3 Elite Rarity",
+    "filters": {
+      "all": "All",
+      "gear": "Gear",
+      "playbooks": "Playbooks",
+      "playerCards": "Player Cards"
+    },
+    "sortRarity": "Sort: Rarity",
+    "loadMore": "Load More Assets",
+    "acquired": "Acquired",
+    "condition": "Condition",
+    "maxCondition": "Max Condition",
+    "mastery": "Mastery",
+    "offensivePlay": "Offensive Play",
+    "openInLab": "Open in Lab",
+    "rarity": {
+      "elite": "Elite",
+      "pro": "Pro",
+      "rookie": "Rookie"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "name": "Name",
+    "email": "Email",
+    "bio": "Bio",
+    "save": "Save Changes"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark Mode",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "account": "Account"
+  },
+  "about": {
+    "title": "About AI Harry",
+    "description": "AI Harry is a next-generation content creation platform that leverages artificial intelligence to help writers, creators, and teams produce high-quality content more efficiently.",
+    "mission": "Our Mission",
+    "missionText": "To democratize content creation and empower everyone to share their stories with the world.",
+    "features": "Features",
+    "team": "Team"
+  },
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "share": "Share",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out"
+  }
+}
